@@ -14,6 +14,8 @@
 
 //Use SPIFFS FS as data storage
 #include <FS.h>
+#include "SPIFFS.h"
+
 
 #define TABLE_SIZE 8192
 
